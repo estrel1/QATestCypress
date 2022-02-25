@@ -1,0 +1,16 @@
+{
+  "rows": [
+    {
+      "username": "FirstTestLogin_12",
+      "password": "TestAbc_12!"
+    },
+    {
+      "username": "SecondTestLogin",
+      "password": "TestAbc_12!"
+    },
+    {
+      "username": "ThirdTestLogin",
+      "password": "TestAbc_12!"
+    }
+  ]
+}
